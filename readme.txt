@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git test1.
 Git test1 not add.
 push to github.
-Creating a new branch.
+Creating a new branch is quick & simple.
