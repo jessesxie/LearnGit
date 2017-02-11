@@ -7,4 +7,9 @@ Git test1 not add.
 push to github.
 Creating a new branch is quick AND simple.
 Creating a new branch.
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick AND simple.
+=======
+Creating a new branch is quick AND simple.
+a new branch test1.
+>>>>>>> test1
